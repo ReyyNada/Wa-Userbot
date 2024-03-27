@@ -3,7 +3,7 @@
 
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReyyNada/games-wabot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReyyNada/Wa-Userbot)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
